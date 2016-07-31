@@ -1,0 +1,28 @@
+
+#Tamagotchi{
+    width: 100px;
+    height: 150px;
+    background-color: aqua;
+}
+button,div{
+    width:50px;
+    height: 50px;
+    background-color: aquamarine;
+    border: 1px solid red;
+}
+#warningFood{
+    background-color: yellow;
+    display: none;
+}
+#warningHealth{
+    background-color: green;
+    display: none;
+}
+#warningRest{
+    background-color: blue;
+    display: none;
+}
+#warningHappiness{
+    background-color: purple;
+    display: none;
+}
